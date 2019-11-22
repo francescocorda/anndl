@@ -1,2 +1,3 @@
 image-classification/.ipynb_checkpoints/
 image-classification/classification_experiments/
+*.csv
