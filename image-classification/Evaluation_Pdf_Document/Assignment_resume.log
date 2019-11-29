@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.6.4)  29 NOV 2019 10:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.6.4)  29 NOV 2019 18:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -240,60 +240,61 @@ e
 File: ./Tensorboard_images/CNN_LOSS.jpg Graphic file (type jpg)
 <use ./Tensorboard_images/CNN_LOSS.jpg>
 Package pdftex.def Info: ./Tensorboard_images/CNN_LOSS.jpg  used on input line 
-39.
-(pdftex.def)             Requested size: 256.0748pt x 102.75581pt.
+42.
+(pdftex.def)             Requested size: 241.07501pt x 96.73918pt.
 <./Tensorboard_images/CNN_ACC.jpg, id=2, 752.91321pt x 302.13211pt>
 File: ./Tensorboard_images/CNN_ACC.jpg Graphic file (type jpg)
 <use ./Tensorboard_images/CNN_ACC.jpg>
 Package pdftex.def Info: ./Tensorboard_images/CNN_ACC.jpg  used on input line 4
-5.
-(pdftex.def)             Requested size: 256.0748pt x 102.75581pt.
+8.
+(pdftex.def)             Requested size: 241.07501pt x 96.73918pt.
  [1
 
 {c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Tensorboard_i
-mages/CNN_LOSS.jpg> <./Tensorboard_images/CNN_ACC.jpg>] [2]
-<./Tensorboard_images/VGG_LOSS.jpg, id=17, 752.91321pt x 302.13211pt>
+mages/CNN_LOSS.jpg> <./Tensorboard_images/CNN_ACC.jpg>]
+<./Tensorboard_images/VGG_LOSS.jpg, id=13, 752.91321pt x 302.13211pt>
 File: ./Tensorboard_images/VGG_LOSS.jpg Graphic file (type jpg)
 <use ./Tensorboard_images/VGG_LOSS.jpg>
 Package pdftex.def Info: ./Tensorboard_images/VGG_LOSS.jpg  used on input line 
-73.
+72.
 (pdftex.def)             Requested size: 256.0748pt x 102.75581pt.
-<./Tensorboard_images/VGG_ACC.jpg, id=18, 752.91321pt x 302.13211pt>
+<./Tensorboard_images/VGG_ACC.jpg, id=14, 752.91321pt x 302.13211pt>
 File: ./Tensorboard_images/VGG_ACC.jpg Graphic file (type jpg)
 <use ./Tensorboard_images/VGG_ACC.jpg>
 Package pdftex.def Info: ./Tensorboard_images/VGG_ACC.jpg  used on input line 7
-9.
+8.
 (pdftex.def)             Requested size: 256.0748pt x 102.75581pt.
- [3 <./Tensorboard_images/VGG_LOSS.jpg> <./Tensorboard_images/VGG_ACC.jpg>]
-<./Tensorboard_images/XCEPTION_LOSS.jpg, id=22, 752.91321pt x 302.13211pt>
+ [2 <./Tensorboard_images/VGG_LOSS.jpg>]
+<./Tensorboard_images/XCEPTION_LOSS.jpg, id=19, 752.91321pt x 302.13211pt>
 File: ./Tensorboard_images/XCEPTION_LOSS.jpg Graphic file (type jpg)
 <use ./Tensorboard_images/XCEPTION_LOSS.jpg>
 Package pdftex.def Info: ./Tensorboard_images/XCEPTION_LOSS.jpg  used on input 
-line 91.
+line 93.
 (pdftex.def)             Requested size: 256.0748pt x 102.75581pt.
-<./Tensorboard_images/XCEPTION_ACC.jpg, id=23, 752.91321pt x 302.13211pt>
+<./Tensorboard_images/XCEPTION_ACC.jpg, id=20, 752.91321pt x 302.13211pt>
 File: ./Tensorboard_images/XCEPTION_ACC.jpg Graphic file (type jpg)
 <use ./Tensorboard_images/XCEPTION_ACC.jpg>
 Package pdftex.def Info: ./Tensorboard_images/XCEPTION_ACC.jpg  used on input l
-ine 97.
+ine 99.
 (pdftex.def)             Requested size: 256.0748pt x 102.75581pt.
- [4 <./Tensorboard_images/XCEPTION_LOSS.jpg> <./Tensorboard_images/XCEPTION_ACC
-.jpg>] (./Assignment_resume.aux) ) 
+ [3 <./Tensorboard_images/VGG_ACC.jpg> <./Tensorboard_images/XCEPTION_LOSS.jpg>
+] [4 <./Tensorboard_images/XCEPTION_ACC.jpg>] (./Assignment_resume.aux) ) 
 Here is how much of TeX's memory you used:
  2833 strings out of 492609
  38469 string characters out of 6132819
- 117584 words of memory out of 5000000
+ 118584 words of memory out of 5000000
  6708 multiletter control sequences out of 15000+600000
  8883 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,10n,43p,489b,228s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2019/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmbx12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
-.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/t
-exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/20
-19/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Assignment_resume.pdf (4 pages, 1399296 bytes).
+ 41i,10n,43p,485b,230s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/te
+xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/201
+9/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2019/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2019/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmtt10.pfb>
+Output written on Assignment_resume.pdf (4 pages, 1399917 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
