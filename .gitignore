@@ -1,4 +1,6 @@
 .ipynb_checkpoints/
 classification_experiments/
 Classification_Dataset/
+segmentation_experiments/
+Segmentation_Dataset/
 *.csv
