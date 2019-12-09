@@ -1,0 +1,6 @@
+U-Net seen during lab without concatenation
+
+U-net with concatenation -> 0.39
+
+
+
