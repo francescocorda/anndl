@@ -1,0 +1,33 @@
+First Model
+	Validation Set without data augmentation
+	Batch Size = 16
+	prepare target done with tf.where(y_ > 0, y_ - 254, y_)
+	Encoder depth=4 Conv2D ReLU-> Conv2D ReLU -> MaxPool2D
+	Last Encoder Layer Conv2D ReLU-> Conv2D ReLU -> MaxPool2D
+	Decoder UpSampling2D -> Conv2D ReLU -> Conv2D ReLU
+	number of classes = 2
+	SparseCategoricalCrossEntropy, Adam optimizer(learning_rate = 1e-3)
+	We tried to add concatenation
+
+U-Net style architecture
+	Functional implementation
+	num_classes = 2
+	SparseCategoricalCrossEntropy, Adam optimizer(learning_rate = 1e-3)
+	
+U-Net with concatenation
+
+Series of Failing attempts
+	num_classes = 1 correction
+	sgd optimizer
+	losses: dice_loss, sparseCategoricalCrossEntropy (unsure), combined_loss,
+	Dropout, Conv2DTranspose
+
+Issues with Dataset Split -> Model not Learning
+	We rolled back to ImageDataGenerator automatic validation dataset split
+	
+
+Combined Loss Explanation
+
+Stochastic Gradient Descent Explanation
+
+1.15694344e
