@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.6.4)  17 DEC 2019 13:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.6.4)  17 DEC 2019 15:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -354,14 +354,28 @@ Overfull \hbox (18.85689pt too wide) in paragraph at lines 188--189
 /10 kaggle[]score=0.\OT1/cmr/m/n/10 . 
  []
 
+<./Tensorboard_images/VGG19_Dec17_loss.jpg, id=36, 1141.10527pt x 319.50948pt>
+File: ./Tensorboard_images/VGG19_Dec17_loss.jpg Graphic file (type jpg)
+<use ./Tensorboard_images/VGG19_Dec17_loss.jpg>
+Package pdftex.def Info: ./Tensorboard_images/VGG19_Dec17_loss.jpg  used on inp
+ut line 192.
+(pdftex.def)             Requested size: 345.48576pt x 96.73918pt.
+<./Tensorboard_images/VGG19_Dec17_my_IoU.jpg, id=37, 1141.10527pt x 319.50948pt
+>
+File: ./Tensorboard_images/VGG19_Dec17_my_IoU.jpg Graphic file (type jpg)
+<use ./Tensorboard_images/VGG19_Dec17_my_IoU.jpg>
+Package pdftex.def Info: ./Tensorboard_images/VGG19_Dec17_my_IoU.jpg  used on i
+nput line 198.
+(pdftex.def)             Requested size: 345.48576pt x 96.73918pt.
 [6 <./Tensorboard_images/Trans_Lear_VGG16_Conc_Dec16_04-04-00_loss.jpg> <./Tens
-orboard_images/Trans_Lear_VGG16_Conc_Dec16_04-04-00_my_IoU.jpg>]
+orboard_images/Trans_Lear_VGG16_Conc_Dec16_04-04-00_my_IoU.jpg> <./Tensorboard_
+images/VGG19_Dec17_loss.jpg>] [7 <./Tensorboard_images/VGG19_Dec17_my_IoU.jpg>]
 (./Segmentation_assignment_resume.aux) ) 
 Here is how much of TeX's memory you used:
- 2873 strings out of 492609
- 41114 string characters out of 6132819
+ 2883 strings out of 492609
+ 41530 string characters out of 6132819
  119626 words of memory out of 5000000
- 6739 multiletter control sequences out of 15000+600000
+ 6747 multiletter control sequences out of 15000+600000
  9191 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,10n,43p,361b,253s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -373,10 +387,10 @@ fb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/tex
 live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2019/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Segmentation_assignment_resume.pdf (6 pages, 390468 bytes).
+Output written on Segmentation_assignment_resume.pdf (7 pages, 418148 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 72 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
